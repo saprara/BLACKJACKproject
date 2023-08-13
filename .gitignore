@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -36,3 +37,20 @@ build/
 
 ### Mac OS ###
 .DS_Store
+=======
+
+# Created by https://www.toptal.com/developers/gitignore/api/netbeans
+# Edit at https://www.toptal.com/developers/gitignore?templates=netbeans
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# End of https://www.toptal.com/developers/gitignore/api/netbeans
+>>>>>>> origin/master
